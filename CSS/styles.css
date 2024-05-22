@@ -249,7 +249,7 @@ ul li:hover ul.dropdown{
 }
 .home__container{
   position: relative;
-  padding-top: 4rem;
+  padding-top: 2rem;
   row-gap: 3rem;
 }
 .home__data{
@@ -270,9 +270,7 @@ ul li:hover ul.dropdown{
 .home__img{
   width: 100%;
   justify-self: center;
-  border: 2px solid white;
-  padding: 5rem;
-  
+  padding: rem;
   
 }
 
@@ -283,7 +281,7 @@ ul li:hover ul.dropdown{
   justify-content: center;
   align-items: center;
   position: relative;
-  bottom: 5rem;
+  bottom: 4.5rem;
   padding: 1rem;
  
 }
@@ -457,6 +455,8 @@ ul li:hover ul.dropdown{
 .features__img{
   justify-self: center;
   border-radius: 1.25rem;
+  width: 100%;
+  
 }
 .features__car{
   display: flex;
@@ -942,6 +942,9 @@ font-size: 0.7rem;
   right: -2rem;
     bottom: 16px;
   }
+  .features__img{
+    width: 100%;
+  }
     .featured__item{
   width: 80px;
   height: 80px;
@@ -1025,6 +1028,9 @@ font-size: 0.7rem;
     }
     .home__img{
       width:100%;
+    }
+    .features__img{
+      width: 100%;
     }
     .featured__content{
       grid-template-columns: repeat(2,300px);
