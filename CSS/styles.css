@@ -425,7 +425,7 @@ ul li:hover ul.dropdown{
 .swiper-pagination-bullet-active{
   background-color: var(--first-color);
 }
-.swiper-button-prev{
+.swiper-button-prev {
   color: black;
   background-color: white;
   opacity: 0.5;
@@ -1051,12 +1051,6 @@ font-size: 0.7rem;
     margin-left: auto;
     margin-right: auto;
   }
-  .nav__car{
-    font-size:0.9rem;
-  }
-  .search{
-font-size: 0.9rem;
-  }
   .shape__big{
     width: 500px;
     height:500px;
@@ -1241,4 +1235,10 @@ font-size: 0.9rem;
 }
 .scrollup{
       right: 3rem;
-}}
+}
+  .swiper-button-prev{
+  color: black;
+  background-color: white;
+  opacity: 0.5;
+}
+}
