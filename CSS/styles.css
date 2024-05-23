@@ -1066,6 +1066,13 @@ font-size: 0.7rem;
     display: flex;
     justify-content: space-evenly;
     }
+    .home__img {
+  height: 100vh;
+  ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
   .home__container  {
     padding-top: 2rem;
   }
