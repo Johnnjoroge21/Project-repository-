@@ -92,7 +92,7 @@ img {
 
 .grid {
   display: grid;
-  gap: 1.5rem;
+  
 }
 
 .section {
@@ -251,7 +251,6 @@ ul li:hover ul.dropdown{
 }
 .home__container{
   position: relative;
-  padding-top: 2rem;
   row-gap: 3rem;
 }
 .home__data{
