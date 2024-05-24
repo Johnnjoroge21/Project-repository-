@@ -283,7 +283,7 @@ ul li:hover ul.dropdown{
   align-items: center;
   position: relative;
   bottom: 4.5rem;
-  padding: 1rem;
+  padding: 0.7rem;
  
 }
 .home__car-name{
@@ -474,7 +474,7 @@ ul li:hover ul.dropdown{
   display: flex;
   justify-content: center;
   align-items:center;
-  margin:1rem ;
+  margin: 0.75rem;
 }
 .features__car-data{
   justify-content: center;
