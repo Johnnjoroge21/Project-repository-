@@ -61,7 +61,7 @@ html {
 body {
   font-family:  r;
   font-size: var(--normal-font-size);
-  background-color:#0A3269 /*var(--body-color)*/;
+  background-color:/*#0A3269 */var(--body-color);
   color: var(--text-color);
 }
 
